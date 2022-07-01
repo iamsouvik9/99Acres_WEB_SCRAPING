@@ -6,4 +6,4 @@ This project has been completed using the Python's BeautifulSoup library.
 
 For more details about BeautifulSoup visit https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
--------------------------------------------------SOUVIK GHOSH----------------------------1st July, 2022-----------------------------------------------
+----------------------------SOUVIK GHOSH---------------------1st July, 2022---------------------------------------
